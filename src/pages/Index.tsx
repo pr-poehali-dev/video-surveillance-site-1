@@ -513,7 +513,7 @@ const Index = () => {
                 <Icon name="MapPin" className="h-8 w-8 text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">Адрес</h3>
-              <p className="text-primary-foreground/80">г. Москва</p>
+              <p className="text-primary-foreground/80">г. Набережные Челны</p>
               <p className="text-primary-foreground/80">ул. Примерная, д. 123</p>
             </div>
           </div>
