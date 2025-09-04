@@ -505,7 +505,7 @@ const Index = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">Email</h3>
               <p className="text-primary-foreground/80">info@smart-ss.ru</p>
-              <p className="text-primary-foreground/80">sales@smart-ss.ru</p>
+              <p className="text-primary-foreground/80"></p>
             </div>
 
             <div className="text-center">
